@@ -1,0 +1,22 @@
+* {
+    font-family: "Times New Roman";
+}
+fieldset.scheduler-border {
+  border: 2px groove #ffff !important;
+  padding: 0 1.4em 1.4em 1.4em !important;
+  margin: 0 0 1.5em 0 !important;
+  -webkit-box-shadow:  0px 0px 0px 0px #000;
+  box-shadow:  0px 0px 0px 0px #000;
+}
+.insert_car{
+  background: #6A7987;
+width: 100%;
+}
+
+legend.scheduler-border {
+  border:none;
+  width:140px;
+  font-size: 1.2em !important;
+  font-weight: bold !important;
+  text-align: left !important;
+}
